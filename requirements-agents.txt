@@ -1,0 +1,14 @@
+# ============================================================
+#  NTPC fetch-agent layer ONLY — no ML / re-index stack.
+#  Use this on a machine that just needs to FETCH files
+#  (the heavy chromadb / torch / sentence-transformers deps in
+#   backend/requirements.txt are only needed to re-index).
+#
+#  Install:
+#     python -m pip install -r requirements-agents.txt
+#     python -m playwright install chromium
+# ============================================================
+playwright
+httpx
+python-dotenv
+beautifulsoup4

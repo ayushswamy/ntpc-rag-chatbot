@@ -1,0 +1,233 @@
+{
+  "CIRCULAR::943": {
+    "reference_type": "Circular",
+    "reference_number": "943",
+    "sources": [
+      "circular_repository_20260724_Modification in Home Passage Facility_781df4cb-5ae6-496f-8116-6b66f4fc64be.pdf"
+    ],
+    "chunk_count": 1
+  },
+  "CIRCULAR::995/2026": {
+    "reference_type": "Circular",
+    "reference_number": "995/2026",
+    "sources": [
+      "circular_repository_20260724_Modification in NTPC Allotment of Residential Accommodation Rules- reg._a29ac6f1-d6ad-469b-9295-e21938696aae.pdf"
+    ],
+    "chunk_count": 1
+  },
+  "CIRCULAR::03/2026": {
+    "reference_type": "Circular",
+    "reference_number": "03/2026",
+    "sources": [
+      "circular_repository_20260724_Revision of Dearness Allowance (DA) for the Employees w.e.f.  01.07.2026 – reg. _fd30bba7-87ac-45c0-b235-e79334f06769.pdf"
+    ],
+    "chunk_count": 1
+  },
+  "OFFICEORDER::22(1)/2009-GM": {
+    "reference_type": "Office Order",
+    "reference_number": "22(1)/2009-GM",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::440/2020": {
+    "reference_type": "Office Order",
+    "reference_number": "440/2020",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 4
+  },
+  "REF::02/BD/GN": {
+    "reference_type": "Ref",
+    "reference_number": "02/BD/GN",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "REF::01": {
+    "reference_type": "Ref",
+    "reference_number": "01",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::208/01": {
+    "reference_type": "Office Order",
+    "reference_number": "208/01",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::53412026": {
+    "reference_type": "Office Order",
+    "reference_number": "53412026",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "CIRCULAR::02/2009": {
+    "reference_type": "Circular",
+    "reference_number": "02/2009",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::522/2025": {
+    "reference_type": "Office Order",
+    "reference_number": "522/2025",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::50212024": {
+    "reference_type": "Office Order",
+    "reference_number": "50212024",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::46712022": {
+    "reference_type": "Office Order",
+    "reference_number": "46712022",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::402/2019": {
+    "reference_type": "Office Order",
+    "reference_number": "402/2019",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::378/2018": {
+    "reference_type": "Office Order",
+    "reference_number": "378/2018",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::360/2017": {
+    "reference_type": "Office Order",
+    "reference_number": "360/2017",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::348/2016": {
+    "reference_type": "Office Order",
+    "reference_number": "348/2016",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::334/2015": {
+    "reference_type": "Office Order",
+    "reference_number": "334/2015",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::330/2014": {
+    "reference_type": "Office Order",
+    "reference_number": "330/2014",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::328/2014": {
+    "reference_type": "Office Order",
+    "reference_number": "328/2014",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::312/2012": {
+    "reference_type": "Office Order",
+    "reference_number": "312/2012",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::277/2009": {
+    "reference_type": "Office Order",
+    "reference_number": "277/2009",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::219/2003": {
+    "reference_type": "Office Order",
+    "reference_number": "219/2003",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 4
+  },
+  "OFFICEORDER::207/2001": {
+    "reference_type": "Office Order",
+    "reference_number": "207/2001",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 2
+  },
+  "OFFICEORDER::115/92": {
+    "reference_type": "Office Order",
+    "reference_number": "115/92",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 4
+  },
+  "OFFICEORDER::92/90": {
+    "reference_type": "Office Order",
+    "reference_number": "92/90",
+    "sources": [
+      "edop_20260902_manual.pdf",
+      "edop_20260903_manual.pdf"
+    ],
+    "chunk_count": 6
+  }
+}

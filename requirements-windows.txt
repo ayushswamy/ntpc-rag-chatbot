@@ -1,0 +1,42 @@
+# ============================================================
+#  NTPC RAG Chatbot — Windows dependencies (canonical)
+#  Replaces the original macOS Anaconda `pip freeze` (600+ lines of
+#  `@ file:///private/var/...` URLs + pyobjc-* packages) that cannot
+#  install on Windows. Identical package set to backend/requirements.txt.
+#
+#  Install:
+#     python -m venv backend\venv
+#     backend\venv\Scripts\python.exe -m pip install -r requirements-windows.txt
+#     backend\venv\Scripts\python.exe -m playwright install chromium
+#
+#  chromadb is PINNED to 1.5.9 — the version that built backend/chroma.
+# ============================================================
+
+# Backend API / RAG
+fastapi
+uvicorn[standard]
+pydantic
+ollama
+
+# Vector store (PINNED to match the on-disk index)
+chromadb==1.5.9
+
+# Embeddings (pulls a CPU torch build)
+sentence-transformers
+
+# PDF text extraction
+PyMuPDF
+pdfplumber
+
+# Excel / Word / CSV text extraction (indexer non-PDF ingest)
+openpyxl
+python-docx
+
+# Fetch-agent layer
+# PINNED so it matches the bundled Chromium (ms-playwright\chromium-1223) on an
+# offline server - a newer playwright would try to download a different build.
+playwright==1.60.0
+httpx
+python-dotenv
+beautifulsoup4
+networkx>=3.0
